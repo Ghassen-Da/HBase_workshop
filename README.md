@@ -1,5 +1,4 @@
-# HBase
-# Counting purchases sum workshop
+# HBase sum
 # Work done by Ghassen Daoud and Mehdi Ben Chikha
 
 ![cap1](https://user-images.githubusercontent.com/56545375/163572734-3988eadf-fe27-40f5-a6eb-0f277d43805d.jpg)
